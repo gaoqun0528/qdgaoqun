@@ -1,9 +1,8 @@
 ## 高群
 前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  <br>
 手机  15710085142  |  邮箱  [qdgaoqun@foxmail.com](qdgaoqun@foxmail.com)<br>
-Github qdgaoqun<br>
-[editor on GitHub](https://github.com/gaoqun0528/qdgaoqun/edit/master/index.md)<br>
-
+Github [gaoqun0528/qdgaoqun](https://github.com/gaoqun0528/qdgaoqun/edit/master/index.md)<br>
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
