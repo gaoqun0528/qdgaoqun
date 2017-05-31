@@ -1,5 +1,6 @@
 ## 高群
-前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  |  15710085142  |   qdgaoqun@foxmail.com
+* 前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  | 
+* 15710085142  |   qdgaoqun@foxmail.com
 ## 基本信息
 ### 出生年月日            1990.5.28
 ### 性别                  女
@@ -13,6 +14,8 @@
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
