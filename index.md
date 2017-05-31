@@ -1,14 +1,5 @@
 ## 高群
 前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  <br>
-手机  15710085142  |  邮箱  [qdgaoqun@foxmail.com](qdgaoqun@foxmail.com)<br>
-Github [gaoqun0528/qdgaoqun](https://github.com/gaoqun0528/qdgaoqun)<br>
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-## 高群
-前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  <br>
 手机  15710085142  |  邮箱  qdgaoqun@foxmail.com<br>
 Github [gaoqun0528/qdgaoqun](https://github.com/gaoqun0528/qdgaoqun)<br>
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -22,17 +13,6 @@ Github [gaoqun0528/qdgaoqun](https://github.com/gaoqun0528/qdgaoqun)<br>
 5. 负责对公司网页进行优化，改善用户体验；
 6. 负责使用gulp工具
 进行后期代码的打包压缩，并进行后期维护。
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gaoqun0528/qdgaoqun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
