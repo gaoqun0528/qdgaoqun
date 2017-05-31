@@ -1,8 +1,15 @@
 ## 高群
+前端工程师
 
-基本信息You can use the [editor on GitHub](https://github.com/gaoqun0528/qdgaoqun/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###基本信息
+出生年月日            1990.5.28
+性别                  女
+学历                  本科
+毕业学校              晋中学院
+手机                 15710085142
+邮箱                 qdgaoqun@foxmail.com
+Github               qdgaoqun
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
