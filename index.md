@@ -2,9 +2,9 @@
 前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  <br>
 手机  15710085142  |  邮箱  qdgaoqun@foxmail.com<br>
 Github [to my git](https://github.com/gaoqun0528/qdgaoqun)<br>
-
-### Markdown
-
+### 工作经历   
+北京图为科技有限公司	
+web前端开发工程师  	2014.03-2016.09  
 岗位职责：
 1. 根据设计稿和规范文档完成web界面的切图、页面制作并适配移动端，解决兼容问题；
 2. 及时与UI设计人员进行沟通交流，保证项目的正常进行；
@@ -13,6 +13,20 @@ Github [to my git](https://github.com/gaoqun0528/qdgaoqun)<br>
 5. 负责对公司网页进行优化，改善用户体验；
 6. 负责使用gulp工具
 进行后期代码的打包压缩，并进行后期维护。
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+北京互动阳光科技有限公司 	
+web前端开发  	2012.03-2014.01  
+岗位职责：
+1. 根据产品及项目设计，利用HTML5、CSS3等相关技术进行多终端适配开发； 
+2. 实现页面交互效果、完成页面跳转等逻辑；
+3. 运用ajax技术渲染后台数据，提升用户体验；
+4. 实现产品UI和交互方面的开发需求，确保产品具有优质的用户使用体验。
+
+自我描述:
+	熟悉HTML5/CSS3以及LESS和SASS等css预编器，有bootstrap开发经验；熟练掌握移动端开发，熟悉Android，IOS平台及兼容问题，有hybridapp开发经验；熟悉JavaScript、jQuery、zepto，对面向对象编程，函数式编程有一定的理解；熟悉ajax并有独立通过已定义接口完成前后台交互的能力，熟悉 Nodejs，熟练使用express搭建目录；熟悉requireJS、commonJS等模块化规范；熟悉VueJS、AngularJS、掌握官方API，做过实际项目，并可熟练使用vue-cli 搭建目录；了解ReactJS，能够参与项目开发；可解决与后台的数据交互，可解决跨域请求数据问题，如在后台设置请求头，或在nodejs中使用node-fetch；了解php语言，可以对数据库的数据进行简单操作；可以mock数据；责任心强，具有良好的沟通能力、团队协作能力以及解决问题的能力，积极乐观、充满活力。
+进行后期代码的打包压缩，并进行后期维护。
+
+
+### 教育经历
+	晋中学院	
+	本科 · 计算机科学与技术 	2011年7月毕业  
