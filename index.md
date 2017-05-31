@@ -1,6 +1,6 @@
 ## 高群
 前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  <br>
-手机  15710085142  |  邮箱  qdgaoqun@foxmail.com<br>
+手机  15710085142  |  邮箱  [qdgaoqun@foxmail.com](qdgaoqun@foxmail.com)<br>
 Github qdgaoqun<br>
 [editor on GitHub](https://github.com/gaoqun0528/qdgaoqun/edit/master/index.md)<br>
 
