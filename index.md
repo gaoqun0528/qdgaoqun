@@ -1,8 +1,8 @@
 ## 高群
 前端工程师   ︳  女   ︳ 27岁  ︳  本科  ︳ 4年工作经验  ︳ 北京  <br>
 手机  15710085142  |  邮箱  qdgaoqun@foxmail.com<br>
-Github [gaoqun0528/qdgaoqun](https://github.com/gaoqun0528/qdgaoqun)<br>
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+Github [to my git](https://github.com/gaoqun0528/qdgaoqun)<br>
+
 ### Markdown
 
 岗位职责：
