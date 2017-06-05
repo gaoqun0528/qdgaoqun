@@ -3,7 +3,7 @@
 手机  15710085142  |  邮箱  qdgaoqun@foxmail.com<br>
 Github [to my git](https://github.com/gaoqun0528/qdgaoqun)<br>
 ### 工作经历   
-北京图为科技有限公司	
+北京图为科    技有限公司	
 web前端开发工程师  	2014.03-2016.09  
 岗位职责：
 1. 根据设计稿和规范文档完成web界面的切图、页面制作并适配移动端，解决兼容问题；
