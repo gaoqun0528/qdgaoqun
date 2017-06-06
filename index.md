@@ -20,7 +20,7 @@ Github [to my git](https://github.com/gaoqun0528/qdgaoqun)<br>
 4. 实现产品UI和交互方面的开发需求，确保产品具有优质的用户使用体验。
 
 ### 自我描述
-	熟悉HTML5/CSS3以及LESS和SASS等css预编器，有bootstrap开发经验；熟练掌握移动端开发，熟悉Android，IOS平台及兼容问题，有hybridapp开发经验；熟悉JavaScript、jQuery、zepto，对面向对象编程，函数式编程有一定的理解；熟悉ajax并有独立通过已定义接口完成前后台交互的能力，熟悉 Nodejs，熟练使用express搭建目录；熟悉requireJS、commonJS等模块化规范；熟悉VueJS、AngularJS、掌握官方API，做过实际项目，并可熟练使用vue-cli 搭建目录；了解ReactJS，能够参与项目开发；可解决与后台的数据交互，可解决跨域请求数据问题，如在后台设置请求头，或在nodejs中使用node-fetch；了解php语言，可以对数据库的数据进行简单操作；可以mock数据；责任心强，具有良好的沟通能力、团队协作能力以及解决问题的能力，积极乐观、充满活力。
+    熟悉HTML5/CSS3以及LESS和SASS等css预编器，有bootstrap开发经验；熟练掌握移动端开发，熟悉Android，IOS平台及兼容问题，有hybridapp开发经验；熟悉JavaScript、jQuery、zepto，对面向对象编程，函数式编程有一定的理解；熟悉ajax并有独立通过已定义接口完成前后台交互的能力，熟悉 Nodejs，熟练使用express搭建目录；熟悉requireJS、commonJS等模块化规范；熟悉VueJS、AngularJS、掌握官方API，做过实际项目，并可熟练使用vue-cli 搭建目录；了解ReactJS，能够参与项目开发；可解决与后台的数据交互，可解决跨域请求数据问题，如在后台设置请求头，或在nodejs中使用node-fetch；了解php语言，可以对数据库的数据进行简单操作；可以mock数据；责任心强，具有良好的沟通能力、团队协作能力以及解决问题的能力，积极乐观、充满活力。
 
 ### 教育经历
 	晋中学院   本科·计算机科学与技术   2011年7月毕业
