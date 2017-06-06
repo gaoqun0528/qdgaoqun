@@ -22,5 +22,5 @@ Github [to my git](https://github.com/gaoqun0528/qdgaoqun)<br>
 ## 自我描述
   熟练掌握web前端技术如：HTML5，CSS3，有bootstrap开发经验，能够运用Javascript和jquery并配合amd和cmd等模块化实现页面的基本框架及常用动态效果；熟悉 Nodejs，熟练使用express搭建目录；熟悉VueJS、AngularJS、掌握官方API，做过实际项目，并可熟练使用vue-cli 搭建目录；了解php语言，可以对数据库的数据进行简单操作；有熟练地使用常见的方法，独立通过已定义接口完成前后台交互的能力，如 javascript原生，ajax，axios，nodejs；掌握gulp前端构建工具和webpack包管理工具。
 
-## 教育经历
+## 教育经历 
 	晋中学院   本科·计算机科学与技术   2011年7月毕业
